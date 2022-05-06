@@ -5,7 +5,7 @@
 
 ### Deskripsi Program 
 Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MVC (Model-View-Controller) menggunakan bahasa pemogtaman PHP. Terdapat empat tabel yaitu tabel Buku, Author, Member, dan Peminjaman dimana setiap tabelnya memiliki fitur CRUD. 
-- Pada tabel member, ketika update data member, hanya nama dan jurusan yang boleh berubah, data nim dibuat disabled
+- Pada tabel member, ketika update data member, hanya nama dan jurusan yang bisa berubah, data nim dibuat disabled
 - Pada tabel peminjaman, terdapat fitur untuk menyatakan apakah buku sudah dikembalikan atau belum. Jika salah satu buku belum dikembalikan maka buku tersebut belum bisa dipinjam lagi oleh member lain.
 
 ### Hasil Program
