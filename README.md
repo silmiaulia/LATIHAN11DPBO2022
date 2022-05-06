@@ -11,33 +11,29 @@ Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MV
 ### Hasil Program
 
 #### Tabel Buku
-
 <p align="left">
-  <img width="650" height="370" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png">
+  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png">
 </p>
 
 #### Tabel Author
-
 <p align="left">
-  <img width="650" height="370" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png">
+  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png">
 </p>
 
 #### Tabel Member
-
 <p align="left">
-  <img width="650" height="370" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/member.png">
+  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/member.png">
 </p>
 
 #### Tabel Peminjaman
-
 <p align="left">
-  <img width="650" height="370" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/peminjaman.png">
+  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/peminjaman.png">
 </p>
-#### CRUD Member
 
+#### CRUD Member
 https://user-images.githubusercontent.com/99388988/167117773-efe745b9-f981-4a5c-9272-1e4b65426df4.mp4
 
-#### CRUD Peminjaman
 
+#### CRUD Peminjaman
 https://user-images.githubusercontent.com/99388988/167117783-1cf31647-0730-48a6-9c91-2d3be65256a9.mp4
 
