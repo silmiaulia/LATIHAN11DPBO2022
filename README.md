@@ -15,13 +15,14 @@ Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MV
 <p align="left">
   <img src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png"/>
 </p>
+
 #### Tabel Author
 
 <p align="left">
-  <img src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png"/>
+  <img width=1000 height=500 src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png"/>
 </p>
 
-#### Tabel Member\
+#### Tabel Member
 <p align="left">
   <img src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/member.png"/>
 </p>
