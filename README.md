@@ -12,7 +12,7 @@ Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MV
 
 #### Tabel Buku
 <p align="left">
-  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png">
+  <img width="840" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png">
 </p>
 
 #### Tabel Author
@@ -22,12 +22,12 @@ Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MV
 
 #### Tabel Member
 <p align="left">
-  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/member.png">
+  <img width="840" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/member.png">
 </p>
 
 #### Tabel Peminjaman
 <p align="left">
-  <img width="800" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/peminjaman.png">
+  <img width="840" height="400" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/peminjaman.png">
 </p>
 
 #### CRUD Member
