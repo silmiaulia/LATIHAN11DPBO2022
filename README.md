@@ -19,7 +19,7 @@ Pada Latihan 11 ini dibuat sebuah website dengan menerapkan konsep arsitektur MV
 #### Tabel Author
 
 <p align="left">
-  <img width=900 height=300 src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png"/>
+  <img width="800" height="300" src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/author.png"/>
 </p>
 
 #### Tabel Member
